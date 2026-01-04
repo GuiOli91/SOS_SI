@@ -1,0 +1,140 @@
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0986
+Epoch 100, Loss: 1.0984
+Epoch 200, Loss: 1.0983
+Epoch 300, Loss: 1.0981
+Epoch 400, Loss: 1.0978
+Epoch 500, Loss: 1.0974
+Epoch 600, Loss: 1.0966
+Epoch 700, Loss: 1.0953
+Epoch 800, Loss: 1.0931
+Epoch 900, Loss: 1.0895
+Accuracy Classic-NN: 0.30
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0987
+Epoch 100, Loss: 1.0984
+Epoch 200, Loss: 1.0981
+Epoch 300, Loss: 1.0979
+Epoch 400, Loss: 1.0974
+Epoch 500, Loss: 1.0967
+Epoch 600, Loss: 1.0955
+Epoch 700, Loss: 1.0935
+Epoch 800, Loss: 1.0904
+Epoch 900, Loss: 1.0856
+Accuracy Classic-NN: 0.30
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0987
+Epoch 100, Loss: 1.0984
+Epoch 200, Loss: 1.0982
+Epoch 300, Loss: 1.0981
+Epoch 400, Loss: 1.0978
+Epoch 500, Loss: 1.0974
+Epoch 600, Loss: 1.0967
+Epoch 700, Loss: 1.0956
+Epoch 800, Loss: 1.0937
+Epoch 900, Loss: 1.0907
+Accuracy Classic-NN: 0.30
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0989
+Epoch 100, Loss: 1.0983
+Epoch 200, Loss: 1.0980
+Epoch 300, Loss: 1.0976
+Epoch 400, Loss: 1.0970
+Epoch 500, Loss: 1.0959
+Epoch 600, Loss: 1.0943
+Epoch 700, Loss: 1.0916
+Epoch 800, Loss: 1.0874
+Epoch 900, Loss: 1.0813
+Accuracy Classic-NN: 0.63
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0996
+Epoch 100, Loss: 1.0984
+Epoch 200, Loss: 1.0982
+Epoch 300, Loss: 1.0979
+Epoch 400, Loss: 1.0975
+Epoch 500, Loss: 1.0969
+Epoch 600, Loss: 1.0958
+Epoch 700, Loss: 1.0939
+Epoch 800, Loss: 1.0908
+Epoch 900, Loss: 1.0859
+Accuracy Classic-NN: 0.63
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0983
+Epoch 100, Loss: 1.0980
+Epoch 200, Loss: 1.0975
+Epoch 300, Loss: 1.0968
+Epoch 400, Loss: 1.0957
+Epoch 500, Loss: 1.0937
+Epoch 600, Loss: 1.0906
+Epoch 700, Loss: 1.0856
+Epoch 800, Loss: 1.0781
+Epoch 900, Loss: 1.0674
+Accuracy Classic-NN: 0.73
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0984
+Epoch 100, Loss: 1.0981
+Epoch 200, Loss: 1.0978
+Epoch 300, Loss: 1.0973
+Epoch 400, Loss: 1.0965
+Epoch 500, Loss: 1.0951
+Epoch 600, Loss: 1.0928
+Epoch 700, Loss: 1.0891
+Epoch 800, Loss: 1.0834
+Epoch 900, Loss: 1.0749
+Accuracy Classic-NN: 0.67
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0987
+Epoch 100, Loss: 1.0982
+Epoch 200, Loss: 1.0979
+Epoch 300, Loss: 1.0975
+Epoch 400, Loss: 1.0968
+Epoch 500, Loss: 1.0955
+Epoch 600, Loss: 1.0935
+Epoch 700, Loss: 1.0902
+Epoch 800, Loss: 1.0849
+Epoch 900, Loss: 1.0769
+Accuracy Classic-NN: 0.63
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0985
+Epoch 100, Loss: 1.0984
+Epoch 200, Loss: 1.0982
+Epoch 300, Loss: 1.0980
+Epoch 400, Loss: 1.0977
+Epoch 500, Loss: 1.0972
+Epoch 600, Loss: 1.0964
+Epoch 700, Loss: 1.0949
+Epoch 800, Loss: 1.0925
+Epoch 900, Loss: 1.0886
+Accuracy Classic-NN: 0.47
+== Loading Iris Data ...
+== [ 150 Instances, 4 Dimensions, 3 classes ]
+== ===========================================
+Epoch 0, Loss: 1.0985
+Epoch 100, Loss: 1.0980
+Epoch 200, Loss: 1.0976
+Epoch 300, Loss: 1.0969
+Epoch 400, Loss: 1.0959
+Epoch 500, Loss: 1.0941
+Epoch 600, Loss: 1.0911
+Epoch 700, Loss: 1.0865
+Epoch 800, Loss: 1.0795
+Epoch 900, Loss: 1.0693
+Accuracy Classic-NN: 0.67

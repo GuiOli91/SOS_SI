@@ -1,0 +1,140 @@
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6952
+Epoch 100, Loss: 0.6571
+Epoch 200, Loss: 0.6501
+Epoch 300, Loss: 0.6546
+Epoch 400, Loss: 0.6062
+Epoch 500, Loss: 0.5692
+Epoch 600, Loss: 0.5500
+Epoch 700, Loss: 0.5086
+Epoch 800, Loss: 0.5079
+Epoch 900, Loss: 0.4691
+Accuracy Classic-NN: 0.89
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6940
+Epoch 100, Loss: 0.6597
+Epoch 200, Loss: 0.6597
+Epoch 300, Loss: 0.6597
+Epoch 400, Loss: 0.6597
+Epoch 500, Loss: 0.6597
+Epoch 600, Loss: 0.6597
+Epoch 700, Loss: 0.6597
+Epoch 800, Loss: 0.6597
+Epoch 900, Loss: 0.6597
+Accuracy Classic-NN: 0.62
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6913
+Epoch 100, Loss: 0.6598
+Epoch 200, Loss: 0.6597
+Epoch 300, Loss: 0.6597
+Epoch 400, Loss: 0.6583
+Epoch 500, Loss: 0.6596
+Epoch 600, Loss: 0.6541
+Epoch 700, Loss: 0.6355
+Epoch 800, Loss: 0.6405
+Epoch 900, Loss: 0.5733
+Accuracy Classic-NN: 0.62
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6953
+Epoch 100, Loss: 0.6551
+Epoch 200, Loss: 0.6488
+Epoch 300, Loss: 0.6507
+Epoch 400, Loss: 0.6194
+Epoch 500, Loss: 0.6032
+Epoch 600, Loss: 0.5255
+Epoch 700, Loss: 0.4700
+Epoch 800, Loss: 0.4517
+Epoch 900, Loss: 0.4538
+Accuracy Classic-NN: 0.91
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6995
+Epoch 100, Loss: 0.6600
+Epoch 200, Loss: 0.6597
+Epoch 300, Loss: 0.6597
+Epoch 400, Loss: 0.6597
+Epoch 500, Loss: 0.6443
+Epoch 600, Loss: 0.6526
+Epoch 700, Loss: 0.5992
+Epoch 800, Loss: 0.5662
+Epoch 900, Loss: 0.5272
+Accuracy Classic-NN: 0.91
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.7033
+Epoch 100, Loss: 0.6596
+Epoch 200, Loss: 0.6591
+Epoch 300, Loss: 0.6343
+Epoch 400, Loss: 0.5989
+Epoch 500, Loss: 0.5726
+Epoch 600, Loss: 0.5427
+Epoch 700, Loss: 0.5873
+Epoch 800, Loss: 0.4948
+Epoch 900, Loss: 0.5595
+Accuracy Classic-NN: 0.90
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6938
+Epoch 100, Loss: 0.6592
+Epoch 200, Loss: 0.6597
+Epoch 300, Loss: 0.6597
+Epoch 400, Loss: 0.6597
+Epoch 500, Loss: 0.6597
+Epoch 600, Loss: 0.6597
+Epoch 700, Loss: 0.6597
+Epoch 800, Loss: 0.6597
+Epoch 900, Loss: 0.6597
+Accuracy Classic-NN: 0.62
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6919
+Epoch 100, Loss: 0.6559
+Epoch 200, Loss: 0.6581
+Epoch 300, Loss: 0.6415
+Epoch 400, Loss: 0.5451
+Epoch 500, Loss: 0.4846
+Epoch 600, Loss: 0.6382
+Epoch 700, Loss: 0.4846
+Epoch 800, Loss: 0.3671
+Epoch 900, Loss: 0.4236
+Accuracy Classic-NN: 0.94
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6924
+Epoch 100, Loss: 0.6539
+Epoch 200, Loss: 0.6572
+Epoch 300, Loss: 0.6484
+Epoch 400, Loss: 0.6071
+Epoch 500, Loss: 0.5548
+Epoch 600, Loss: 0.4924
+Epoch 700, Loss: 0.4742
+Epoch 800, Loss: 0.4397
+Epoch 900, Loss: 0.3604
+Accuracy Classic-NN: 0.90
+== Loading Breast Cancer Data ...
+== [ 569 Instances, 30 Dimensions, 2 classes ]
+== ===========================================
+Epoch 0, Loss: 0.6892
+Epoch 100, Loss: 0.6589
+Epoch 200, Loss: 0.6558
+Epoch 300, Loss: 0.6230
+Epoch 400, Loss: 0.6089
+Epoch 500, Loss: 0.5588
+Epoch 600, Loss: 0.5335
+Epoch 700, Loss: 0.5764
+Epoch 800, Loss: 0.4824
+Epoch 900, Loss: 0.4657
+Accuracy Classic-NN: 0.90

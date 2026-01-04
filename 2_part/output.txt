@@ -1,0 +1,1655 @@
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.90
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.90
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.92
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.89
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.92
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.95
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.92
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.91
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.96
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.62
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.73
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.75
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x722664d35c60>
+Number of variables to optimize:  332
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.94
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x716758331da0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.70
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  0.1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.90
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.90
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.87
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  0.1 C2:  1.5 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.60
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.60
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  0.1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.83
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.80
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.70
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.87
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.83
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1 C2:  1.5 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.37
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.67
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.70
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.83
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  0.1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.33
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.87
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.83
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.80
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.1 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.53
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.1 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.53
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.1 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.60
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.1 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.70
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.3 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.3 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.30
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.3 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.63
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.3 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.70
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.7 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.93
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.7 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.7 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.7 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.9 Swarmsize:  30 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.9 Swarmsize:  100 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.87
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.9 Swarmsize:  300 Ieteration:  1000
+
+
+Accuracy PSO-NN: 0.97
+############ you are using the following settings:
+Number hidden layers:  10
+activation:  <function sigmoid at 0x7453bc4edda0>
+Number of variables to optimize:  83
+PSO parameters C1:  1.5 C2:  1.5 W:  0.9 Swarmsize:  1000 Ieteration:  1000
+
+
+Accuracy PSO-NN: 1.00
